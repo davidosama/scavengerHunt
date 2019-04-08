@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Motakadem Antenna</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Antenna</string>
+    <string name="nav_header_subtitle">Motakadem M.A.S.</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_about">About</string>
+
+    <string name="loginUsername">Username</string>
+    <string name="loginPassword">Password</string>
+    <string name="loginButton">Login</string>
+
+    <string name="editTextCode">Code</string>
+
+    <string name="nav_1">Insert code</string>
+    <string name="nav_2">Option 2</string>
+    <string name="nav_3">Option 3</string>
+    <string name="nav_4">Log out</string>
+
+    <string name="about_info">Developed by Motakadem Team, Michael Archangel Scout 2019.</string>
+
+
+    <!--location codes-->
+    <string name="location_0_code">0</string>
+
+    <string name="location_1_code">189</string>
+
+    <string name="location_2_code_asad"></string>
+    <string name="location_2_code_nemr"></string>
+    <string name="location_2_code_fahd"></string>
+    <string name="location_2_code_nesr"></string>
+
+    <string name="location_3_code">273</string>
+
+    <string name="location_4_code">469</string>
+
+
+    <!--messages text-->
+    <string name="message_0">ابدأوا المشوار..الهدف هو الوصول بسرعة وبأقل فلوس ممكنة</string>
+
+    <string name="message_1">0128595**** it will help you.</string>
+
+    <string name="message_2_1">A couple of messages will appear for 5 seconds each. Filter and find your code. Prepare yourself.</string>
+    <string name="message_2_2">لا نستخدم علامات الترقيم خلى بالك من الأخطاء الإملائية الوقت مش كالسيف</string>
+
+    <string name="message_3">Call 01286554730. The redhead girl will lead you.</string>
+
+    <string name="message_4">أحسب الوقت بين محطة العتبة ومحطة باب الشعرية. ملحوظة: متنزلش من المترو غير لما تعرف المفروض تروح على فين..</string>
+</resources>
